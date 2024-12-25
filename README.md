@@ -5,6 +5,8 @@ La cirugía de voz y laringe es una intervención común en la reafirmación de 
 
 En este estudio científico para el ambito del cómputo forense, me centraré en el uso de modelos de inteligencia artificial (IA) y matemáticos, además de librerías de Python, para analizar, identificar y verificar patrones vocales relacionados con la cirugía.
 
+![image](https://drive.google.com/uc?export=view&id=1tTdu0kQOmxi_B8mW7e-rv01Fk4Q-d74e)
+
 ---
 
 ## Marco Teórico.
@@ -137,14 +139,11 @@ Se espera que el análisis forense de las señales vocales proporcione una evalu
 ---
 
 ## Referencias.
-1. "Forensic Voice Analysis Techniques", Journal of Forensic Sciences.
-2. "Deep Learning for Audio Analysis", IEEE Transactions on Neural Networks.
-3. Documentación oficial de [Librosa](https://librosa.org/) y [PyTorch](https://pytorch.org/).
-4. Smith, J. et al. (2020). "Voice Pattern Recognition Post-Gender Affirmation Surgery". Journal of Forensic Science.
-5. Brown, A. et al. (2019). "Machine Learning Techniques for Voice Analysis". IEEE Transactions on Audio, Speech, and Language Processing.
-6. Librosa Development Team. (2021). "Librosa: Audio and Music Analysis in Python". https://librosa.org
-7. TensorFlow Developers. (2021). "TensorFlow: An Open Source Machine Learning Framework". https://www.tensorflow.org
-8. Scikit-learn Developers. (2021). "Scikit-learn: Machine Learning in Python". https://scikit-learn.org
+1. Smith, J. et al. (2020). "Voice Pattern Recognition Post-Gender Affirmation Surgery". Journal of Forensic Science.
+2. Brown, A. et al. (2019). "Machine Learning Techniques for Voice Analysis". IEEE Transactions on Audio, Speech, and Language Processing.
+3. Librosa Development Team. (2021). "Librosa: Audio and Music Analysis in Python". https://librosa.org
+4. TensorFlow Developers. (2021). "TensorFlow: An Open Source Machine Learning Framework". https://www.tensorflow.org
+5. Scikit-learn Developers. (2021). "Scikit-learn: Machine Learning in Python". https://scikit-learn.org
 
 ---
 # Cómo citar este trabajo
