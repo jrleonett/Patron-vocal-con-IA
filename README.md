@@ -1,6 +1,9 @@
 # Identificación de patrones vocales tras cirugía de voz y laringe para reafirmar el género
 
-## Introducción.
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
+
 La cirugía de voz y laringe es una intervención común en la reafirmación de género para personas transgénero y no binarias. Este procedimiento puede cambiar significativamente las características vocales, como la frecuencia fundamental (F0), la calidad vocal, y los formantes. Sin embargo, evaluar la efectividad de estos cambios desde una perspectiva objetiva y cuantificable sigue siendo un desafío. Este estudio explora cómo el cómputo forense y la ciencia forense pueden colaborar en la identificación de patrones vocales tras estas cirugías. 
 
 En este estudio científico para el ambito del cómputo forense, me centraré en el uso de modelos de inteligencia artificial (IA) y matemáticos, además de librerías de Python, para analizar, identificar y verificar patrones vocales relacionados con la cirugía.
@@ -157,6 +160,6 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```
 
 **Licencia**
-- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
 
 
